@@ -40,7 +40,3 @@ I'm especially interested in real-time data pipelines, infrastructure as code, c
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0tei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m0tei&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
