@@ -30,5 +30,3 @@ I'm especially interested in real-time data pipelines, infrastructure as code, c
 **Telemetry Pipeline** | Real-time CAN LTE InfluxDB streaming | Python, Docker, CI/CD
 
 **School Registry App** | Full-stack web application | Python, MongoDB, Docker, CI/CD
-
-**CAN Bus Firmware** | STM32 embedded telemetry | C/C++, FreeRTOS
