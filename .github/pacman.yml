@@ -1,0 +1,22 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: build graph
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build graph
+        uses: matchai/matchai/blob/master/.github/workflows/build-graph.yml@master
+      - name: Push new files
+        uses: actions/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "Generate Pac-Man contribution graph"
+          add: "*.svg"

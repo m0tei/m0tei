@@ -30,3 +30,23 @@ I'm especially interested in real-time data pipelines, infrastructure as code, c
 **Telemetry Pipeline** | Real-time CAN LTE InfluxDB streaming | Python, Docker, CI/CD
 
 **School Registry App** | Full-stack web application | Python, MongoDB, Docker, CI/CD
+
+## 🎮 Contribution Game
+
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/m0tei/m0tei/output/pacman-contribution-graph-dark.svg"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/m0tei/m0tei/output/pacman-contribution-graph.svg"
+    >
+    <img 
+      alt="Pac-Man contribution graph" 
+      src="https://raw.githubusercontent.com/m0tei/m0tei/output/pacman-contribution-graph.svg"
+      width="95%"
+    >
+  </picture>
+</p>
