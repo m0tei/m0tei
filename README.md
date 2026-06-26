@@ -31,22 +31,8 @@ I'm especially interested in real-time data pipelines, infrastructure as code, c
 
 **School Registry App** | Full-stack web application | Python, MongoDB, Docker, CI/CD
 
-## 🎮 Contribution Game
+## 📊 GitHub Activity
 
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/m0tei/m0tei/output/pacman-contribution-graph-dark.svg"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/m0tei/m0tei/output/pacman-contribution-graph.svg"
-    >
-    <img 
-      alt="Pac-Man contribution graph" 
-      src="https://raw.githubusercontent.com/m0tei/m0tei/output/pacman-contribution-graph.svg"
-      width="95%"
-    >
-  </picture>
-</p>
+![GitHub Skyline](https://skyline.github.com/m0tei/2026.svg)
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0tei&theme=dark&show_icons=true)
