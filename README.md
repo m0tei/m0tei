@@ -31,8 +31,16 @@ I'm especially interested in real-time data pipelines, infrastructure as code, c
 
 **School Registry App** | Full-stack web application | Python, MongoDB, Docker, CI/CD
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Skyline](https://skyline.github.com/m0tei/2026.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m0tei&show_icons=true&theme=tokyonight&hide_border=true" alt="David's GitHub stats" />
+</p>
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0tei&theme=dark&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0tei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m0tei&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
